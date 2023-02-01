@@ -16,8 +16,8 @@
         "graham-campbell/manager": "^4.7",
         "guzzlehttp/guzzle": "^7.4.3",
         "guzzlehttp/psr7": "^2.2.1",
-        "illuminate/contracts": "^8.75 || ^9.0",
-        "illuminate/support": "^8.75 || ^9.0",
+        "illuminate/contracts": "^8.75 || ^9.0 || ^10.0",
+        "illuminate/support": "^8.75 || ^9.0 || ^10.0",
         "m4tthumphrey/php-gitlab-api": "11.8.*",
         "symfony/cache": "^5.4 || ^6.0"
     },
